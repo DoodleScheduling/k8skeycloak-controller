@@ -3,6 +3,25 @@ entries:
   k8skeycloak-controller:
   - apiVersion: v2
     appVersion: v0.0.1
+    created: "2022-03-24T09:55:13.012213392Z"
+    description: Keycloak Realm reconciler
+    digest: ae1e07c7426c81f42f64cda2768379a51923ebbf78ca6b7cd594286f96cc16c1
+    home: https://github.com/DoodleScheduling/k8skeycloak-controller
+    keywords:
+    - kubernetes-controller
+    - http-keycloak
+    - request-clone
+    maintainers:
+    - email: devops@doodle.com
+      name: devops
+    name: k8skeycloak-controller
+    sources:
+    - https://github.com/DoodleScheduling/k8skeycloak-controller
+    urls:
+    - https://github.com/DoodleScheduling/k8skeycloak-controller/releases/download/k8skeycloak-controller-0.1.2/k8skeycloak-controller-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: v0.0.1
     created: "2022-02-23T14:53:07.46091635Z"
     description: Keycloak Realm reconciler
     digest: cf61f84f585490feb0d6498d63a0bd44109f76b7e092e4bdc4c6b1fd3a6d59ea
@@ -20,4 +39,4 @@ entries:
     urls:
     - https://github.com/DoodleScheduling/k8skeycloak-controller/releases/download/k8skeycloak-controller-0.1.1/k8skeycloak-controller-0.1.1.tgz
     version: 0.1.1
-generated: "2022-02-23T14:53:07.46092295Z"
+generated: "2022-03-24T09:55:13.012221792Z"
